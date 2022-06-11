@@ -54,7 +54,8 @@ HTML 로 표현할 수 있는 것
 
 ### Body: 웹사이트의 콘텐츠
 
--
+- 웹사이트에 contents, structure 등을 표시하는 모든 태그는 body 에 들어간다.
+- head 에 들어가는 부분을 제외한 다른 모든 태그가 들어간다.
 
 ## HTML Contents
 
