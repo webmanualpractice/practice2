@@ -35,3 +35,5 @@ codesandbox 원본 주소: https://codesandbox.io/s/edu-ministori/git06
 - Back end develop: 사용자가 보지 못하는 영역에서 데이터 처리
   - Web back end develop: 서버에서 처리되는 언어를 사용해서 개발
   - 언어: Java, PHP, ASP, Python, Nodejs
+
+## Namimg 표기법
