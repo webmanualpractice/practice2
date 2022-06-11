@@ -37,3 +37,17 @@ codesandbox 원본 주소: https://codesandbox.io/s/edu-ministori/git06
   - 언어: Java, PHP, ASP, Python, Nodejs
 
 ## Namimg 표기법
+
+- Namimg 하는 경우
+  - Naming 만 보고서도 HTML, CSS, Javascript 요소를 구분할 수 있음
+  - HTML, CSS: id, class
+  - JS: 변수, 함수의 이름을 정의할 경우
+  - 파일, 폴더
+- 표기법의 의미
+  - 2 개 단어 이상으로 조합하여 단어와 단어 사이를 구별해서 사용
+  - 예시: queryselector 보다 querySelector 가 단어와 단어 사이를 구분하기 쉬움
+- 표기법의 종류
+  - section_contents: Snake case - 파일이나 폴더의 이름을 만들 때
+  - section-contents: Kebab case - HTML 에서의 id 와 class 만들 때
+  - sectionContents: Camel case - Javascript
+  - SectionContents: Pascal case - Javascript 의 Class 를 만들 때
