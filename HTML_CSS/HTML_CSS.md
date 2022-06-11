@@ -14,7 +14,7 @@ HTML 로 표현할 수 있는 것
 
 표시 언어. 기능 동작과는 상관이 없어서 프로그래밍 언어와는 다르다.
 
-- HTML: Htper Text Markup Language
+- HTML: Hyper Text Markup Language
 
   - Hyper Text: Hyper Link 로 연결된 문서. 웹페이지 (콘텐츠, 구조)
   - Markup: 표시

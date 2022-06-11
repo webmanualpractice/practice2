@@ -17,3 +17,20 @@
   - Open API: 객체 개념과 연결
 
 # Javascript basic
+
+- Version
+
+  - ES5 와 ES6 는 문법이 약간 다름
+
+- 작성방식
+  - Javascript 와 CSS 는 HTML 안에서 합쳐져서 작동함
+  - External 방식
+    - HTML 파일과 js 파일을 각각 만들어서 HTML 파일에서 js 파일을 불러와서 작동시킴
+  - Internal 방식
+    - 파일을 HTML 안에 만드는 방식
+    - HTML 문서 안에 Javascript 코드를 넣어주는 경우
+    - js 코드 블럭을 따로 구분해서 작성
+    - 우리 예제는 이 방식으로 진행
+  - Inline 방식
+    - HTML 코드 안에 js 코드를 넣는 방식
+    - 쓰지 않는 것이 좋음
